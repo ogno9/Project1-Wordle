@@ -16,3 +16,4 @@
 
 # Everything on my end ran smoothly on my end.
 
+#Trying to get started was the hardest but once i got everything figured out it got easy.
