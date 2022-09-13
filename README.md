@@ -17,3 +17,6 @@
 # Everything on my end ran smoothly on my end.
 
 #Trying to get started was the hardest but once i got everything figured out it got easy.
+
+
+https://github.com/ogno9/Project1-Wordle/blob/main/Kapture%202022-09-12%20at%2021.01.15.gif
